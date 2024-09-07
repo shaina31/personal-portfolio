@@ -1,9 +1,7 @@
 Shaina Karillyn G. Pagarigan
 Bachelor of Science in Information Systems – 3
 
-
 Assignment: Exploring Emerging Technologies
-
 
 Technology: Virtual Reality (VR)
 Purpose: Virtual Reality creates a complete virtual environment for its users. It immerses a user in a virtual workplace and simulates a given scenario, which is beneficial to them as it allows them to engage with things digitally using technology.
@@ -12,14 +10,12 @@ Usage: Virtual reality can be used in training and simulations, interactive lear
 •	IT Industry: VR can be used to visualize or simulate a model that a company is trying to create. VR technology enables virtual collaboration on projects/products, thus improving planning, development, and communication processes.
 Example: Virtual Reality can immerse a user into an environment he/she have never been to before, allowing them to see places and experience things by just using VR Headsets or VR Box for example.
 
-
 Technology: Robotics
 Purpose: Robotics is the science of designing, developing, and deploying machines that can perform or replicate human tasks with minimal human intervention. Robotics aims to improve efficiency, precision, and safety in a variety of applications by automating repetitive, dangerous, or complex tasks that are deemed impossible for humans alone to perform.
 Usage: Robots are widely used to manufacture or perform simple repetitive tasks in industries where work must be performed in demanding settings for humans.
 •	Education: Programmable robots are widely used to teach coding and robotics concepts like sensors, motors, and controllers. Programmable robots are more advanced compared to pre-built robots, and students must assemble and program them. These robots are equipped with a variety of sensors and actuators, enabling them to perform more complex tasks. 
 •	IT Industry: Robots can help automate IT tasks such as data extraction, report generation, and application testing, allowing businesses to optimize their operations and free up more time for employees/organizations to do other things.
 Example: Robotics has come into widespread use in real-world scenarios. As far as I can remember, these technologies have long been used as servers or ordering systems in fast food restaurants, as well as in simple household chores in a domestic setting.
-
 
 Technology: Artificial Intelligence (AI)
 Purpose: Artificial Intelligence can perceive environments, recognize objects, make decisions, solve problems, learn from experience, formulate examples and then incorporate them into machines or systems to simulate human intelligence.
@@ -28,14 +24,12 @@ Usage: AI is used to provide personalized recommendations to people, based on th
 •	IT Industry: AI ensures the timely and efficient creation of data backups, reducing the risk of human error and ensuring data integrity and security for organizations.
 Example: One of the best examples of AI is the Generative AI that we are all familiar with, which includes ChatGPT, Copilot, and Gemini. These applications have proven to be extremely useful for humans conducting research on unfamiliar topics. Just remember that using these kinds of things has limitations, and that users should set boundaries and not fully rely on them, regardless of their capabilities. 
 
-
 Technology: Internet of Things (IoT)
 Purpose: The Internet of Things has made it easier to automate mundane tasks, improve security systems, create wearable devices to improve health and wellness, and enhance connectivity resulting in improved communication. 
 Usage: IoT can range from simple "smart home" devices such as smart thermostats to wearables such as smartwatches and RFID-enabled clothing, as well as intricate industrial machinery and transportation systems that helps in making complex tasks easier to manage. 
 •	Education: IoT is used to design smart classrooms in which devices such as interactive whiteboards can be controlled remotely to create an optimal learning environment. Sensors can also track student participation and attendance.
 •	IT Industry: Companies use IoT connect their industrial machines to sensors and analytics platforms, allowing for real-time monitoring, predictive maintenance, and optimization of factory operations.
 Example: The simplest examples of IoT are those wearable techs such as smartwatches embedded with sensors that can help track our daily health and lifestyle resulting in a much healthier and livelier wellbeing.
-
 
 Technology: 5G Wireless Technology (5G Network)
 Purpose: 5G wireless technology poses higher data speeds, greater reliability, massive network capacity, increased availability, and reduced latency for a more uniform user experience to a wider audience.
